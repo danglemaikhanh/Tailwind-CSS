@@ -1,6 +1,5 @@
-import bigShoe1 from './big-shoe1.png'
-import bigShoe2 from './big-shoe2.png'
-import bigShoe3 from './big-shoe3.png'
+import bigShirt1 from './bigShirt1.jpg'
+import bigShirt2 from './bigShirt2.jpg'
 
 import customer1 from './customer1.jpeg'
 import customer2 from './customer2.svg'
@@ -18,14 +17,12 @@ import shoe7 from './shoe7.svg'
 import shoe8 from './shoe8.svg'
 
 import thumbnailBackground from './thumbnail-background.svg'
-import thumbnailShoe1 from './thumbnail-shoe1.svg'
-import thumbnailShoe2 from './thumbnail-shoe2.svg'
-import thumbnailShoe3 from './thumbnail-shoe3.svg'
+import thumbnailShirt1 from './thumbnail-shirt1.svg'
+import thumbnailShirt2 from './thumbnail-shirt2.svg'
 
 export {
-    bigShoe1,
-    bigShoe2,
-    bigShoe3,
+    bigShirt1,
+    bigShirt2,
 
     customer1,
     customer2,
@@ -42,7 +39,6 @@ export {
     shoe8,
 
     thumbnailBackground,
-    thumbnailShoe1,
-    thumbnailShoe2,
-    thumbnailShoe3
+    thumbnailShirt1,
+    thumbnailShirt2,
 }

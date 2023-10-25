@@ -13,14 +13,14 @@ const Nav = () => {
             <li key={link.label}>
               <a
                 href={link.href}
-                className="font-montserrat leading-normal text-lg text-slate-gray"
+                className="font-montserrat leading-normal text-lg text-slate-gray hoverEffect font-medium"
               >
                 {link.label}
               </a>
             </li>
           ))}
         </ul>
-        <div className="hidden max-lg:block">
+        <div className="hidden max-lg:block cursor-pointer">
           <img src={hamburger} alt="humburger" width={30} />
         </div>
       </nav>
